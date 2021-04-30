@@ -21,7 +21,7 @@ class thirdPage : AppCompatActivity() {
         }
 
         nextButton.setOnClickListener {
-            val nextPageSkip = Intent(this, firstPage::class.java)
+            val nextPageSkip = Intent(this, fourthPage::class.java)
             startActivity(nextPageSkip)
         }
 
