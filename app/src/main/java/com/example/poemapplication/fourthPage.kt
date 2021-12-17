@@ -19,7 +19,7 @@ class fourthPage : AppCompatActivity() {
         }
 
         button2.setOnClickListener{
-            val biba = Intent(this, firstPage::class.java)
+            val biba = Intent(this, fifthPage::class.java)
             startActivity(biba)
         }
     }
