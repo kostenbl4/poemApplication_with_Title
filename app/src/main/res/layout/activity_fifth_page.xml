@@ -11,7 +11,10 @@
         android:layout_width="307dp"
         android:layout_height="465dp"
         android:fontFamily="@font/andika"
-        android:text="Пятая страница"
+        android:text="Чредой из вод выходят ясных,
+                      И с ними дядька их морской;
+                      Там королевич мимоходом
+                      Пленяет грозного царя;"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="36sp"
